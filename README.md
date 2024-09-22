@@ -1,10 +1,10 @@
-# 319 Days of Code Challenge
+# 130 Days of Code Challenge
 
 ## About the Challenge
-Welcome to my 319 Days of Code Challenge! This repository will serve as my daily journal where I'll be documenting all my learnings, experiences, and resources as I embark on this coding journey. Each day, for the next 183 days, I'll update this repo with new content, reflecting on what I've learned and sharing any useful resources I come across.
+Welcome to my 130 Days of Code Challenge! This repository will serve as my daily journal where I'll be documenting all my learnings, experiences, and resources as I embark on this coding journey. Each day, for the next 183 days, I'll update this repo with new content, reflecting on what I've learned and sharing any useful resources I come across.
 
 ## Objective
-The goal of this challenge is to improve my coding skills by consistently coding and learning every day. By the end of these 183 days, I aim to have a comprehensive record of my progress and a wealth of shared resources that might help others on their coding journey.
+The goal of this challenge is to improve my coding skills by consistently coding and learning every day. By the end of these 130 days, I aim to have a comprehensive record of my progress and a wealth of shared resources that might help others on their coding journey.
 
 ## Daily Logs
 Each day, I'll commit a new update that may include:
